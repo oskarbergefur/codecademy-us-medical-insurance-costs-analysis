@@ -1,0 +1,68 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXGroup section */
+		77BD9F21256FCCC500D33740 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		77BD9F22256FCCC500D33740 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+			};
+			buildConfigurationList = 77BD9F25256FCCC500D33740 /* Build configuration list for PBXProject "us-medical-insurance-costs-analysis" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 77BD9F21256FCCC500D33740;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		77BD9F26256FCCC500D33740 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		77BD9F27256FCCC500D33740 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		77BD9F25256FCCC500D33740 /* Build configuration list for PBXProject "us-medical-insurance-costs-analysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77BD9F26256FCCC500D33740 /* Debug */,
+				77BD9F27256FCCC500D33740 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 77BD9F22256FCCC500D33740 /* Project object */;
+}
