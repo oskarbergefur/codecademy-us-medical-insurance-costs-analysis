@@ -6,10 +6,17 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		77BD9F28256FCCD800D33740 /* us-medical-insurance-costs.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; name = "us-medical-insurance-costs.ipynb"; path = "../python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb"; sourceTree = "<group>"; };
+		77BD9F29256FCCD800D33740 /* insurance.csv */ = {isa = PBXFileReference; lastKnownFileType = text; name = insurance.csv; path = "../python-portfolio-project-starter-files/insurance.csv"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		77BD9F21256FCCC500D33740 = {
 			isa = PBXGroup;
 			children = (
+				77BD9F29256FCCD800D33740 /* insurance.csv */,
+				77BD9F28256FCCD800D33740 /* us-medical-insurance-costs.ipynb */,
 			);
 			sourceTree = "<group>";
 		};
