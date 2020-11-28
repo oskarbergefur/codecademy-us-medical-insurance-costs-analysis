@@ -7,16 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		77BD9F28256FCCD800D33740 /* us-medical-insurance-costs.ipynb */ = {isa = PBXFileReference; lastKnownFileType = text; name = "us-medical-insurance-costs.ipynb"; path = "../python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb"; sourceTree = "<group>"; };
-		77BD9F29256FCCD800D33740 /* insurance.csv */ = {isa = PBXFileReference; lastKnownFileType = text; name = insurance.csv; path = "../python-portfolio-project-starter-files/insurance.csv"; sourceTree = "<group>"; };
+		77BD9F2A256FCD3100D33740 /* script.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = script.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		77BD9F21256FCCC500D33740 = {
 			isa = PBXGroup;
 			children = (
-				77BD9F29256FCCD800D33740 /* insurance.csv */,
-				77BD9F28256FCCD800D33740 /* us-medical-insurance-costs.ipynb */,
+				77BD9F2A256FCD3100D33740 /* script.py */,
 			);
 			sourceTree = "<group>";
 		};
